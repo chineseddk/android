@@ -41,22 +41,13 @@
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/apache-xml" name="platform/external/apache-xml" />
   <project path="external/astl" name="platform/external/astl" />
-  
-  <project path="external/bash" name="CyanogenMod/android_external_bash" />
-  
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
   <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" />
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
-  
-  <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" />
-  
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
-  
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
-  
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/chromium" name="platform/external/chromium" />
   <project path="external/clang" name="platform/external/clang" />
@@ -107,9 +98,6 @@
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
   <project path="external/liblzf" name="platform/external/liblzf" />
-  
-  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
-  
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libpcap" name="platform/external/libpcap" />
@@ -121,10 +109,6 @@
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
-  
-  <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
-  <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
-  
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mesa3d" name="platform/external/mesa3d" />
 
@@ -132,9 +116,6 @@
 
   <project path="external/mockwebserver" name="platform/external/mockwebserver" />
   <project path="external/mtpd" name="platform/external/mtpd" />
-  
-  <project path="external/nano" name="CyanogenMod/android_external_nano" />
-  
   <project path="external/netcat" name="platform/external/netcat" />
   <project path="external/netperf" name="platform/external/netperf" />
   <project path="external/neven" name="platform/external/neven" />
@@ -153,9 +134,6 @@
   <project path="external/qemu" name="platform/external/qemu" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
   <project path="external/quake" name="platform/external/quake" />
-  
-  <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
-  
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/skia" name="platform/external/skia" />
   <project path="external/sonivox" name="platform/external/sonivox" />
@@ -176,18 +154,12 @@
   <project path="external/webkit" name="platform/external/webkit" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
-  
-  <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
-  
   <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant" />
 
 <project path="external/wpa_supplicant_6" name="tpruvot/android_external_wpa_supplicant_6" />
 
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
-  
-  <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
-  
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
 
@@ -204,10 +176,6 @@
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/support" name="platform/frameworks/support" />
-  
-  <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
-  <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" />
-  
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
 
 <project path="hardware/cm" name="nadlabak/android_hardware_cm" revision="video_ics" />
@@ -221,9 +189,6 @@
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" />
 
 <project path="hardware/ril" name="nadlabak/android_hardware_ril" />
-
-  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
-
 <project path="hardware/ti/omap3" name="nadlabak/android_hardware_ti_omap3-compat" />
 
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx"/>
@@ -250,9 +215,6 @@
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
-  
-  <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" />
-  
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain"/>
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
@@ -261,21 +223,12 @@
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
 
 <project path="packages/apps/Phone" name="nadlabak/android_packages_apps_Phone" revision="ics-clean" />
-
-  <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
-  <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-
 <project path="packages/apps/Settings" name="nadlabak/android_packages_apps_Settings" />
 
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/Provision" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
-  
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
-  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
-  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
-
 <project path="packages/apps/Usb" name="nadlabak/android_packages_apps_Usb" />
 
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
@@ -290,13 +243,6 @@
   <project path="prebuilt" name="platform/prebuilt" />
 
 <project path="vendor/cm" name="nadlabak/android_vendor_cm" />
-
-  <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
-  <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
-  <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
-  <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
-  <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
-  
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
 
